@@ -5,7 +5,7 @@ function App() {
 
   return (
    <Button variant="success">
-        text 2
+        text 3
    </Button>
   );
 }
